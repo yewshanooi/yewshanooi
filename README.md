@@ -18,7 +18,6 @@
 - 🤖 [`Skye`] - *Multi use discord bot with application commands and a user-friendly interface*
 
 #### Forks
-- 🤖 [`Skye Music`] - *Discord music bot built with discord.js*
 - 🧩 [`Google Meet Auto Leave`] - *Extension to leave meet based on number of people present*
 
 ## Statistics
@@ -47,5 +46,4 @@
 
 <!----------------- LINKS ------------------>
 [`Skye`]:                       https://github.com/yewshanooi/skye
-[`Skye Music`]:                 https://github.com/yewshanooi/skye-music
 [`Google Meet Auto Leave`]:     https://github.com/yewshanooi/google-meet-auto-leave
