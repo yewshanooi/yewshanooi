@@ -45,5 +45,5 @@
 <br/>
 
 <!----------------- LINKS ------------------>
-[`Skye`]:                       https://github.com/yewshanooi/ava
+[`Ava`]:                       https://github.com/yewshanooi/ava
 [`Google Meet Auto Leave`]:     https://github.com/yewshanooi/google-meet-auto-leave
