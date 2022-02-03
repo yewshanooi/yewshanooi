@@ -15,7 +15,7 @@
 
 ## Projects
 #### Personal
-- 🤖 [`Skye`] - *Multi use discord bot with application commands and a user-friendly interface*
+- 🤖 [`Ava`] - *Open source discord bot with application commands and a user-friendly interface*
 
 #### Forks
 - 🧩 [`Google Meet Auto Leave`] - *Extension to leave meet based on number of people present*
@@ -45,5 +45,5 @@
 <br/>
 
 <!----------------- LINKS ------------------>
-[`Skye`]:                       https://github.com/yewshanooi/skye
+[`Skye`]:                       https://github.com/yewshanooi/ava
 [`Google Meet Auto Leave`]:     https://github.com/yewshanooi/google-meet-auto-leave
