@@ -4,10 +4,6 @@
 - Currently learning **JavaScript** & **Node.js** ☕
 - **<3** everything *open-source* 🌌
 
-#### Socials
-
-[![linktr.ee](https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=28be7a)](https://linktr.ee/yewshanooi)
-
 #### Tools
 
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=00a4ef)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=0098FF)](https://en.wikipedia.org/wiki/Visual_Studio_Code) [![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=3A33D1)](https://en.wikipedia.org/wiki/ESLint) [![nodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=66cc33)](https://en.wikipedia.org/wiki/Node.js) <br/>
