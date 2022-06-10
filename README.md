@@ -4,27 +4,24 @@
 - Currently learning **JavaScript** & **Node.js** ☕
 - **<3** everything *open-source* 🌌
 
-#### Tools
-
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=00a4ef)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=0098FF)](https://en.wikipedia.org/wiki/Visual_Studio_Code) [![ESLint](https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=3A33D1)](https://en.wikipedia.org/wiki/ESLint) [![nodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=66cc33)](https://en.wikipedia.org/wiki/Node.js) <br/>
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=FFD43B)](https://en.wikipedia.org/wiki/Python_(programming_language)) [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://en.wikipedia.org/wiki/JavaScript) [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML) [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
-
-## Projects
-#### Personal
-- 🤖 [`Ava`] - *Open source discord bot with application commands and a user-friendly interface*
-
-#### Forks
-- 🧩 [`Google Meet Auto Leave`] - *Extension to leave meet based on number of people present*
+#### Languages & Tools
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 
 ## Statistics
 ###### anuraghazra/github-readme-stats
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=yewshanooi&show_icons=true&theme=dark&icon_color=fb8c00&text_color=c8c8c8&include_all_commits=true&hide_title=true&count_private=true&hide_border=true" />
+      <a href="https://github.com/anuraghazra/github-readme-stats/">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=yewshanooi&show_owner=true&show_icons=true&title_color=ffffff&hide_title=true&text_color=c8c8c8&bg_color=0d1117&icon_color=ff6d00&hide_border=true&count_private=true/" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&theme=dark&text_color=c8c8c8&layout=compact&hide_border=true" />
+      <a href="https://github.com/anuraghazra/github-readme-stats/">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&bg_color=0d1117&text_color=c8c8c8&layout=compact&hide_title=true&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -33,13 +30,8 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="http://github-readme-streak-stats.herokuapp.com/?user=yewshanooi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats/">
+      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com?user=yewshanooi&background=0d1117&currStreakLabel=ff6d00&sideLabels=ffffff&currStreakNum=ffffff&dates=c8c8c8&sideNums=ffffff&stroke=c8c8c8&fire=ff6d00&ring=ff6d00&hide_border=true" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!----------------- LINKS ------------------>
-[`Ava`]:                       https://github.com/yewshanooi/ava
-[`Google Meet Auto Leave`]:     https://github.com/yewshanooi/google-meet-auto-leave
