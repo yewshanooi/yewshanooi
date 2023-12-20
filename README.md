@@ -2,9 +2,9 @@
 
 - I'm a **tech enthusiast**
 - ❤️ everything *open-source*
-- Developing **JavaScript** & **Node.js** applications <br/>
+- Developing **JavaScript** applications with **Node.js** & **MongoDB**
+- Learning **HTML** & **CSS** with **Bootstrap** <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 
 ## Stats
 ###### anuraghazra/github-readme-stats
