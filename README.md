@@ -2,14 +2,16 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&bg_color=0d1117&text_color=c8c8c8&layout=compact&hide_title=true&hide_border=true" title="anuraghazra/github-readme-stats" alt="No image? Press F5!">
 
-I'm a **tech enthusiast** that ❤️ everything *open-source*
+I'm a **tech enthusiast**
 
-🛠️ Currently developing applications with:
+❤️ everything *open-source*
+
+🛠️ currently developing applications using:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ***
 
 <p align="center">
-  <a href="https://skyelements.weebly.com/" target="_blank" title="SkyElements"><img width="20%" alt="SkyElements Logo" src="https://skyelements.weebly.com/uploads/8/2/6/6/82660244/skyelements-july23-80.png" /></a>
+  <a href="https://skyelements.weebly.com/" target="_blank" title="SkyElements"><img width="25%" alt="SkyElements Logo" src="https://skyelements.weebly.com/uploads/8/2/6/6/82660244/skyelements-july23-80.png" /></a>
 </p>
