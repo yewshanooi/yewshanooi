@@ -1,6 +1,6 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yewshanooi&hide_title=true&hide_rank=true&hide_border=true&icon_color=ff6d00&show_icons=true&text_color=c8c8c8&bg_color=0d1117&count_private=true/" title="anuraghazra/github-readme-stats" alt="No image? Press F5!">
+<a href="https://github.com/yewshanooi?tab=repositories" target="_blank"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yewshanooi&hide_title=true&hide_rank=true&hide_border=true&icon_color=ff6d00&show_icons=true&text_color=c8c8c8&bg_color=0d1117&count_private=true/" title="View my repositories!" alt="No image? Press F5!"></a>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&bg_color=0d1117&text_color=c8c8c8&layout=compact&hide_title=true&hide_border=true" title="anuraghazra/github-readme-stats" alt="No image? Press F5!">
+<a href="https://github.com/yewshanooi?tab=repositories" target="_blank"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&bg_color=0d1117&text_color=c8c8c8&layout=compact&hide_title=true&hide_border=true" title="View my repositories!" alt="No image? Press F5!"></a>
 
 I'm a **tech enthusiast**
 
@@ -13,5 +13,5 @@ I'm a **tech enthusiast**
 ***
 
 <p align="center">
-  <a href="https://skyelements.weebly.com/" target="_blank" title="SkyElements"><img width="25%" alt="SkyElements Logo" src="https://skyelements.weebly.com/uploads/8/2/6/6/82660244/skyelements-july23-80.png" /></a>
+  <a href="https://skyelements.weebly.com/" target="_blank" title="SkyElements"><img width="25%" alt="SkyElements Logo" src="https://skyelements.weebly.com/uploads/8/2/6/6/82660244/skyelements-july23-80.png"></a>
 </p>
