@@ -1,6 +1,6 @@
-<a href="https://github.com/yewshanooi?tab=repositories" target="_blank"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yewshanooi&hide_title=true&hide_rank=true&hide_border=true&icon_color=ff6d00&show_icons=true&text_color=c8c8c8&bg_color=0d1117&count_private=true/" title="View my repositories!" alt="No image? Press F5!"></a>
+<a href="https://github.com/yewshanooi?tab=repositories" target="_blank"><img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=yewshanooi&hide_title=true&hide_rank=true&hide_border=true&icon_color=ff6d00&show_icons=true&text_color=c8c8c8&bg_color=0d1117&count_private=true/" title="View my repositories!" alt="No image? Press F5!"></a>
 
-<a href="https://github.com/yewshanooi?tab=repositories" target="_blank"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&bg_color=0d1117&text_color=c8c8c8&layout=compact&hide_title=true&hide_border=true" title="View my repositories!" alt="No image? Press F5!"></a>
+<a href="https://github.com/yewshanooi?tab=repositories" target="_blank"><img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewshanooi&bg_color=0d1117&text_color=c8c8c8&layout=compact&hide_title=true&hide_border=true" title="View my repositories!" alt="No image? Press F5!"></a>
 
 I'm a **tech enthusiast**
 
