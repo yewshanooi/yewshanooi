@@ -12,6 +12,4 @@ I'm a **tech enthusiast**
 
 ***
 
-<p align="center">
-  <a href="https://skyelements.weebly.com/" target="_blank" title="SkyElements"><img width="20%" alt="SkyElements Logo" src="https://skyelements.weebly.com/uploads/8/2/6/6/82660244/skyelements-july23-80.png"></a>
-</p>
+
